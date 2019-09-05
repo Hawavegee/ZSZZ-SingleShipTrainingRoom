@@ -6,6 +6,6 @@
 
 <style lang="scss" scoped>
 #container{
-    margin: 0 32px;
+    // margin: 0 32px;
 }
 </style>

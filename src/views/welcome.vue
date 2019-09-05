@@ -101,6 +101,10 @@ export default {
 	font-weight: normal;
 }
 
+*{
+	user-select: none;
+}
+
 // 花里胡哨的动画
 @keyframes flicker {
 	0% {
