@@ -1,0 +1,17 @@
+# 编辑器工作目录
+/.vscode/
+
+# 忽略生成目录
+/dist/
+
+# 忽略模块目录
+/node_modules/
+
+# 忽略package锁
+/package-lock.json
+
+# 忽略server.txt
+/server.txt
+
+# 忽略字体目录
+/src/views/fonts/src/
